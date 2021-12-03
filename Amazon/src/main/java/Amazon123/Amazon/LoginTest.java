@@ -24,6 +24,11 @@ public class LoginTest {
 		
 		return Driver.findElement(login);
 	}
+public WebElement login1() {
+		
+		return Driver.findElement(login);
+	}
+	
 	
 	
 	

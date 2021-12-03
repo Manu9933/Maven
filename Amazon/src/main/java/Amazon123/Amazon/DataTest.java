@@ -18,6 +18,7 @@ public class DataTest {
 	LoginTest login1=new LoginTest( driver);
 	
 	login1.login().click();
+	login1.login().sendKeys("abc");
 
 	}
 
